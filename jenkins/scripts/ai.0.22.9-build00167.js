@@ -1,4 +1,4 @@
-var Microsoft;
+  var Microsoft;
 (function (Microsoft) {
     var ApplicationInsights;
     (function (ApplicationInsights) {
